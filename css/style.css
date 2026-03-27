@@ -1,0 +1,20 @@
+/* Exemple de style personnalisé */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+  }
+  
+  h2 {
+    color: #343a40;
+  }
+  
+  .navbar-brand {
+    font-weight: bold;
+  }
+  
+  /* Ajustement pour le padding des sections */
+  section {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+  
